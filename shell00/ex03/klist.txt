@@ -1,0 +1,5 @@
+Credentials cache: API:A26717BA-4187-4CBD-AF94-C7872D3FA69C
+        Principal: agcolas@42.FR
+
+  Issued                Expires               Principal
+Aug  3 12:19:24 2020  Aug 10 12:19:24 2020  krbtgt/42.FR@42.FR
